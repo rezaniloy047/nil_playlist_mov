@@ -1,1 +1,35 @@
+#EXTM3U
 
+# ─────────── 🎬 Hollywood Blockbusters ───────────
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: The Way of Water" tvg-logo="https://image.tmdb.org/t/p/w500/t6HIqrHeCPbzHPeB5J49YVjM6Y5.jpg" group-title="🎬 Hollywood Movies",Avatar: The Way of Water (2022) [4K]
+http://cdn.yourserver.com/movies/hollywood/avatar_2_4k.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="John Wick: Chapter 4" tvg-logo="https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg" group-title="🎬 Hollywood Movies",John Wick: Chapter 4 (2023) [1080p]
+http://cdn.yourserver.com/movies/hollywood/john_wick_4.mkv
+
+
+# ─────────── 🍿 Bollywood Hits ───────────
+#EXTINF:-1 tvg-id="" tvg-name="Jawan" tvg-logo="https://image.tmdb.org/t/p/w500/jILeVkOBqlbAOnA7Q3aH9NnK1Hj.jpg" group-title="🍿 Bollywood Hits",Jawan (2023) [FHD]
+http://cdn.yourserver.com/movies/bollywood/jawan_2023.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Pathaan" tvg-logo="https://image.tmdb.org/t/p/w500/m1bO2S2gNlHw1R2zHh9tEEDVzG6.jpg" group-title="🍿 Bollywood Hits",Pathaan (2023) [1080p]
+http://cdn.yourserver.com/movies/bollywood/pathaan.mkv
+
+
+# ─────────── 🎭 Bangla OTT & Natok ───────────
+#EXTINF:-1 tvg-id="" tvg-name="Surongo" tvg-logo="https://image.tmdb.org/t/p/w500/vQ9yE4B7q8B0UjQ2N1rG8X8wJ8V.jpg" group-title="🎭 Bangla OTT",Surongo (2023) [Chorki]
+http://cdn.yourserver.com/movies/bangla/surongo_chorki.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Karagar" tvg-logo="https://image.tmdb.org/t/p/w500/mY0Xv6h0B8O6P0Z3N7H9F2H3R5R.jpg" group-title="🎭 Bangla OTT",Karagar (Part 1) [Hoichoi]
+http://cdn.yourserver.com/movies/bangla/karagar_p1.mkv
+
+
+# ─────────── 📺 Web Series (Sorted by Episodes) ───────────
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGCQ.jpg" group-title="📺 Top Web Series",Breaking Bad | S01 E01 | Pilot
+http://cdn.yourserver.com/series/breaking_bad/S01E01.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGCQ.jpg" group-title="📺 Top Web Series",Breaking Bad | S01 E02 | Cat's in the Bag...
+http://cdn.yourserver.com/series/breaking_bad/S01E02.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Farzi S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/1EwwvS0D2d0iWtcF65a8gT6vJeb.jpg" group-title="📺 Hindi Series",Farzi | S01 E01 | Artist
+http://cdn.yourserver.com/series/farzi/S01E01.mp4
